@@ -4,6 +4,7 @@ class Customer {
 	public static String bankName = "INEURON-BANK";
 	public String name;
 	public double balance;
+	
 
 	Customer(String name) {
 		this.name = name;
